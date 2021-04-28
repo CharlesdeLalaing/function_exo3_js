@@ -109,7 +109,9 @@ eleve = "Charles";
 codingSchoolPlus(eleve);
 eleve = "William";
 codingSchoolPlus(eleve);
-eleve = codingSchoolX.indexOf("Cactus");
+eleve = codingSchoolX.indexOf("Charles");
+codingSchoolMoins(eleve);
+eleve = codingSchoolX.indexOf("William");
 codingSchoolMoins(eleve);
 
 console.log(codingSchoolX)
